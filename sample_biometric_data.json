@@ -1,0 +1,382 @@
+[
+  {
+    "biometric_hash": "hash1abc123",
+    "ui": "1234-5678-9123",
+    "name": {
+      "first": "Sejal",
+      "middle": "tanaji",
+      "last": "Deshmukh"
+    },
+    "gender": "Male",
+    "phone": "+91-9876543210",
+    "email": "arun.sharma@example.com",
+    "address": {
+      "street": "456 MG Road",
+      "city": "Delhi",
+      "district": "Central Delhi",
+      "state": "Delhi",
+      "pincode": "110001"
+    }
+  },
+  {
+    "biometric_hash": "hash2abc123",
+    "ui": "2234-5678-9124",
+    "name": {
+      "first": "Priya",
+      "middle": "Devi",
+      "last": "Patel"
+    },
+    "gender": "Female",
+    "phone": "+91-9123456789",
+    "email": "priya.patel@example.com",
+    "address": {
+      "street": "789 Church Street",
+      "city": "Bangalore",
+      "district": "Bangalore South",
+      "state": "Karnataka",
+      "pincode": "560001"
+    }
+  },
+  {
+    "biometric_hash": "hash3abc123",
+    "ui": "3234-5678-9125",
+    "name": {
+      "first": "Rajesh",
+      "middle": "Singh",
+      "last": "Yadav"
+    },
+    "gender": "Male",
+    "phone": "+91-9345678901",
+    "email": "rajesh.yadav@example.com",
+    "address": {
+      "street": "101 Lalbagh Road",
+      "city": "Lucknow",
+      "district": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pincode": "226001"
+    }
+  },
+  {
+    "biometric_hash": "hash4abc123",
+    "ui": "4234-5678-9126",
+    "name": {
+      "first": "Sita",
+      "middle": "Rani",
+      "last": "Mehta"
+    },
+    "gender": "Female",
+    "phone": "+91-9876543211",
+    "email": "sita.mehta@example.com",
+    "address": {
+      "street": "202 Aundh Road",
+      "city": "Pune",
+      "district": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411007"
+    }
+  },
+  {
+    "biometric_hash": "hash5abc123",
+    "ui": "5234-5678-9127",
+    "name": {
+      "first": "Vikram",
+      "middle": "Singh",
+      "last": "Rathore"
+    },
+    "gender": "Male",
+    "phone": "+91-8654321098",
+    "email": "vikram.rathore@example.com",
+    "address": {
+      "street": "59 Shankar Market",
+      "city": "Jaipur",
+      "district": "Jaipur",
+      "state": "Rajasthan",
+      "pincode": "302001"
+    }
+  },
+  {
+    "biometric_hash": "hash6abc123",
+    "ui": "6234-5678-9128",
+    "name": {
+      "first": "Anjali",
+      "middle": "Rani",
+      "last": "Gupta"
+    },
+    "gender": "Female",
+    "phone": "+91-9354678910",
+    "email": "anjali.gupta@example.com",
+    "address": {
+      "street": "77 MG Road",
+      "city": "Chennai",
+      "district": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    }
+  },
+  {
+    "biometric_hash": "hash7abc123",
+    "ui": "7234-5678-9129",
+    "name": {
+      "first": "Manish",
+      "middle": "Kumar",
+      "last": "Tiwari"
+    },
+    "gender": "Male",
+    "phone": "+91-9123445678",
+    "email": "manish.tiwari@example.com",
+    "address": {
+      "street": "45, East Patel Nagar",
+      "city": "Kolkata",
+      "district": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "700001"
+    }
+  },
+  {
+    "biometric_hash": "hash8abc123",
+    "ui": "8234-5678-9130",
+    "name": {
+      "first": "Shalini",
+      "middle": "Agarwal",
+      "last": "Kumari"
+    },
+    "gender": "Female",
+    "phone": "+91-9876123456",
+    "email": "shalini.kumari@example.com",
+    "address": {
+      "street": "12 Ajmer Road",
+      "city": "Indore",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001"
+    }
+  },
+  {
+    "biometric_hash": "hash9abc123",
+    "ui": "9234-5678-9131",
+    "name": {
+      "first": "Kiran",
+      "middle": "Lal",
+      "last": "Bansal"
+    },
+    "gender": "Female",
+    "phone": "+91-8456123789",
+    "email": "kiran.bansal@example.com",
+    "address": {
+      "street": "36 Park Street",
+      "city": "Chandigarh",
+      "district": "Chandigarh",
+      "state": "Chandigarh",
+      "pincode": "160017"
+    }
+  },
+  {
+    "biometric_hash": "hash10abc123",
+    "ui": "1024-5678-9132",
+    "name": {
+      "first": "Ravi",
+      "middle": "Prasad",
+      "last": "Shukla"
+    },
+    "gender": "Male",
+    "phone": "+91-8756342190",
+    "email": "ravi.shukla@example.com",
+    "address": {
+      "street": "88 Sarojini Nagar",
+      "city": "Bhopal",
+      "district": "Bhopal",
+      "state": "Madhya Pradesh",
+      "pincode": "462001"
+    }
+  },
+  {
+    "biometric_hash": "hash11abc123",
+    "ui": "1124-5678-9133",
+    "name": {
+      "first": "Neha",
+      "middle": "Kumari",
+      "last": "Singh"
+    },
+    "gender": "Female",
+    "phone": "+91-9412114455",
+    "email": "neha.singh@example.com",
+    "address": {
+      "street": "29 Vikramshila Road",
+      "city": "Patna",
+      "district": "Patna",
+      "state": "Bihar",
+      "pincode": "800001"
+    }
+  },
+  {
+    "biometric_hash": "hash12abc123",
+    "ui": "1224-5678-9134",
+    "name": {
+      "first": "Ajay",
+      "middle": "Kumar",
+      "last": "Yadav"
+    },
+    "gender": "Male",
+    "phone": "+91-8773345220",
+    "email": "ajay.yadav@example.com",
+    "address": {
+      "street": "11 Ganesh Gali",
+      "city": "Nagpur",
+      "district": "Nagpur",
+      "state": "Maharashtra",
+      "pincode": "440001"
+    }
+  },
+  {
+    "biometric_hash": "hash13abc123",
+    "ui": "1324-5678-9135",
+    "name": {
+      "first": "Geeta",
+      "middle": "Sharma",
+      "last": "Patel"
+    },
+    "gender": "Female",
+    "phone": "+91-8765432109",
+    "email": "geeta.patel@example.com",
+    "address": {
+      "street": "18 Tilak Nagar",
+      "city": "Surat",
+      "district": "Surat",
+      "state": "Gujarat",
+      "pincode": "395001"
+    }
+  },
+  {
+    "biometric_hash": "hash14abc123",
+    "ui": "1424-5678-9136",
+    "name": {
+      "first": "Suresh",
+      "middle": "Kumar",
+      "last": "Bansal"
+    },
+    "gender": "Male",
+    "phone": "+91-9964537801",
+    "email": "suresh.bansal@example.com",
+    "address": {
+      "street": "2 Palam Vihar",
+      "city": "Gurgaon",
+      "district": "Gurgaon",
+      "state": "Haryana",
+      "pincode": "122001"
+    }
+  },
+  {
+    "biometric_hash": "hash15abc123",
+    "ui": "1524-5678-9137",
+    "name": {
+      "first": "Madhavi",
+      "middle": "Rani",
+      "last": "Nair"
+    },
+    "gender": "Female",
+    "phone": "+91-8109532678",
+    "email": "madhavi.nair@example.com",
+    "address": {
+      "street": "21 MG Nagar",
+      "city": "Hyderabad",
+      "district": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500001"
+    }
+  },
+  {
+    "biometric_hash": "hash16abc123",
+    "ui": "1624-5678-9138",
+    "name": {
+      "first": "Sandeep",
+      "middle": "Singh",
+      "last": "Chaudhary"
+    },
+    "gender": "Male",
+    "phone": "+91-9137548602",
+    "email": "sandeep.chaudhary@example.com",
+    "address": {
+      "street": "17 Jhansi Road",
+      "city": "Kanpur",
+      "district": "Kanpur",
+      "state": "Uttar Pradesh",
+      "pincode": "208001"
+    }
+  },
+  {
+    "biometric_hash": "hash17abc123",
+    "ui": "1724-5678-9139",
+    "name": {
+      "first": "Kavita",
+      "middle": "Devi",
+      "last": "Rani"
+    },
+    "gender": "Female",
+    "phone": "+91-9901234567",
+    "email": "kavita.rani@example.com",
+    "address": {
+      "street": "5 Bhandari Street",
+      "city": "Mumbai",
+      "district": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400019"
+    }
+  },
+  {
+    "biometric_hash": "hash18abc123",
+    "ui": "1824-5678-9140",
+    "name": {
+      "first": "Manoj",
+      "middle": "Kumar",
+      "last": "Gupta"
+    },
+    "gender": "Male",
+    "phone": "+91-9956234510",
+    "email": "manoj.gupta@example.com",
+    "address": {
+      "street": "66 Wazirpur Road",
+      "city": "Delhi",
+      "district": "North Delhi",
+      "state": "Delhi",
+      "pincode": "110052"
+    }
+  },
+  {
+    "biometric_hash": "hash19abc123",
+    "ui": "1924-5678-9141",
+    "name": {
+      "first": "Shubham",
+      "middle": "Choudhary",
+      "last": "Sharma"
+    },
+    "gender": "Male",
+    "phone": "+91-9638527410",
+    "email": "shubham.sharma@example.com",
+    "address": {
+      "street": "22 MG Road",
+      "city": "Pune",
+      "district": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411001"
+    }
+  },
+  {
+    "biometric_hash": "hash20abc123",
+    "ui": "2024-5678-9142",
+    "name": {
+      "first": "Tanya",
+      "middle": "Devi",
+      "last": "Patel"
+    },
+    "gender": "Female",
+    "phone": "+91-9908564321",
+    "email": "tanya.patel@example.com",
+    "address": {
+      "street": "14 Shivaji Nagar",
+      "city": "Ahmedabad",
+      "district": "Ahmedabad",
+      "state": "Gujarat",
+      "pincode": "380001"
+    }
+  }
+]
